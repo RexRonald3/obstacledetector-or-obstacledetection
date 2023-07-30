@@ -7,5 +7,6 @@ trig pin = digital 3rd pin ||
 echo pin = digital 2nd pin ||
 light or alarm positive = digital 4th pin || 
 connect all gnd to a common gnd ||
+vcc of sensor = 5v of arduino ||
 
 
